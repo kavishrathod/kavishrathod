@@ -23,7 +23,7 @@ I'm a final-year **Engineering** undergraduate. I specialize in building scalabl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
   -->
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="databricks" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white" alt="databricks" />
   <!--
   <img src="https://img.shields.io/badge/Airbyte-9575CD?style=flat-square&logo=airbyte&logoColor=white" alt="Airbyte" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
