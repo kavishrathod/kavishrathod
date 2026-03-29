@@ -1,6 +1,6 @@
 <h1 align="left">
  <!--
- <a href="https://eharshit.cfd/"><img align="right" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a> 
+ <a href="https://kavishrathod.github.io/resume.pdf"><img align="right" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a> 
  -->
 
   <a href="https://www.linkedin.com/in/kavishrathod/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
