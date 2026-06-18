@@ -8,7 +8,7 @@
 
 
 
-I'm a final-year **Engineering** undergraduate. I specialize in building scalable **data pipelines**, interactive **dashboards**, and **machine learning models**. I love **problem solving**, **building stuff**, and **vibe coding** new ideas into reality.
+I'm a **Engineering** graduate, specializing in building scalable **data pipelines**, interactive **dashboards**, and **machine learning models**. I love **problem solving**, **building stuff**, and **vibe coding** new ideas into reality.
 
 ## Skills
 
