@@ -58,9 +58,7 @@ I'm a **Engineering** graduate, specializing in building scalable **data pipelin
   <img src="https://img.shields.io/badge/Seaborn-77ACF1?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
   <!--
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-   <!--
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />  
    -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
